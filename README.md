@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Web and Mobile Developer currently working at Cerebrox Information Technology Solutions. I’m focused on continuously enhancing my skills and expanding my knowledge in development. My work involves building functional, user-centered applications on both web and mobile platforms.
+👋 Hi there! I'm a results-driven Mobile Developer with proven experience in designing, developing, and deploying cross-platform mobile applications for Android and iOS using Flutter. Skilled in integrating APIs, optimizing app performance, and implementing scalable state management solutions. Strong background in collaborating with cross-functional teams to deliver high-quality, user-focused applications. Passionate about building innovative, efficient, and impactful mobile solutions, with a career goal of advancing expertise in Flutter development and contributing to projects that improve everyday user experiences.
 
 
 ## 🌐 Socials:
